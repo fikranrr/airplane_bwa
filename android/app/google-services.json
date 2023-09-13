@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482053138392",
+    "project_id": "airplane-4ba94",
+    "storage_bucket": "airplane-4ba94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482053138392:android:ad891a27b56f8ab91e74ad",
+        "android_client_info": {
+          "package_name": "com.fikranr.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482053138392-5mpvfcn7l9o5v1vn0qm6e2nn9t0cu6nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-cubd--LAtADm6Vhw8kW1OenZ2IdLn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482053138392-5mpvfcn7l9o5v1vn0qm6e2nn9t0cu6nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
